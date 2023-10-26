@@ -1,0 +1,29 @@
+---
+title: "Rmarkdown_CheatSheet"
+author: "Kayla Halliday"
+date: "2023-10-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+1. YAML:
+    - 
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+
